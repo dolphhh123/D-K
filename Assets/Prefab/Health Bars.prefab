@@ -34,10 +34,10 @@ RectTransform:
   m_Children: []
   m_Father: {fileID: 5881130199120524107}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -324.5033, y: 266.5254}
-  m_SizeDelta: {x: 496.1934, y: 106.9236}
+  m_AnchorMin: {x: 0, y: 1}
+  m_AnchorMax: {x: 0, y: 1}
+  m_AnchoredPosition: {x: 266.4967, y: -56.47461}
+  m_SizeDelta: {x: 496.1934, y: 106.923584}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &2004074890764376157
 CanvasRenderer:
@@ -127,6 +127,7 @@ GameObject:
   - component: {fileID: 2589607092098542856}
   - component: {fileID: 3330416540311688789}
   - component: {fileID: 1549429592883225684}
+  - component: {fileID: 1181423206780259192}
   m_Layer: 5
   m_Name: Health Bars
   m_TagString: Untagged
@@ -217,3 +218,11 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!222 &1181423206780259192
+CanvasRenderer:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5379732513280128542}
+  m_CullTransparentMesh: 1

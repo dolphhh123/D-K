@@ -7,10 +7,12 @@ public class OnTrigger : MonoBehaviour
 {
     public int sceneIndex;
     // Start is called before the first frame update
-    void OnTriggerEnter(Collider other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        SceneManager.LoadScene(sceneIndex, LoadSceneMode.Single);
+        if (other.tag == "Player")
+        {
+            Debug.Log("Registered");
+            SceneManager.LoadScene(sceneIndex, LoadSceneMode.Single);
+        }
     }
-
-
 }

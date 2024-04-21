@@ -289,11 +289,7 @@ MonoBehaviour:
   - {fileID: 8300000, guid: aa536de381007f7419c03cc8e663bdc4, type: 3}
   - {fileID: 8300000, guid: 27e3be88b1d8c9440a91b682c342af4a, type: 3}
   - {fileID: 8300000, guid: 8f34e07e59624be448a681a6d5b66725, type: 3}
-  - {fileID: 8300000, guid: 7888457aa6a04924da1d37c7e0ac5a75, type: 3}
-  - {fileID: 8300000, guid: b534cb50132d6204fa5fb5ec15afc0ac, type: 3}
-  - {fileID: 8300000, guid: b08b65e70826067458c39e2240dca287, type: 3}
-  - {fileID: 8300000, guid: 5ef3bc1fbb3b44b42874265b63bd20b3, type: 3}
-  - {fileID: 8300000, guid: 5f26a95471c83d6479fbd41b61ed5990, type: 3}
+  maxDistance: 50
 --- !u!82 &6269623925150205346
 AudioSource:
   m_ObjectHideFlags: 0
