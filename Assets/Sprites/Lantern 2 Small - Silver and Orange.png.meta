@@ -1,0 +1,950 @@
+fileFormatVersion: 2
+guid: 67b3fae2cefbcd9428b3bca60b605065
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48bfe7148b833ed49a574dda0a1fac19
+      internalID: 316018577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa31a36d63067345a76b4e0ae2171b9
+      internalID: 1100707322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2806033deac571c4d878514ad2987070
+      internalID: -108149576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_3
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85e91d85d47242e4e8d90d81d6934af2
+      internalID: 405594974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_4
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa86e04cd9caa94483c57a69cd5f84c
+      internalID: 1929716709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_5
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832d9b7f1b6b85246a0a545516e7d174
+      internalID: 1293585462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_6
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 140
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fe2e505179452548aa52760e2ca2bca
+      internalID: -848012681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3de4486de792849b37b03739ebe0b5
+      internalID: 1526722546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7034e32b04b148a7e4125d5da1e27
+      internalID: 1040445431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_9
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d2dca20cbe0ee2409ee1d50cc585072
+      internalID: 1791598372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_10
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c6c1fd4e0b84104595c7024de6d719a
+      internalID: -432701358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_11
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02953461deb8578488a367a5e6f56e8e
+      internalID: 739090819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_12
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ab9a0eaad07e24ab011345f8299b3f
+      internalID: 1302470649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 112
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9181d79be65796544ae94787c31e2e8d
+      internalID: 1164911795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d4c3392b194124fbfccfab458e2794
+      internalID: -2116714670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_15
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b491da46dad8f6d4d8aaa80688ba1ad8
+      internalID: 105720963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_16
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72e658eed6fe4144f82f76cfe0949035
+      internalID: 1454988499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_17
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6beecc33c875554bb3fb4c53f7b38c0
+      internalID: -1104049125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_18
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89de720791ae254fbcf558e2205c203
+      internalID: -1629300654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_19
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f85412b1dd3114db8148f91738b9eb
+      internalID: 317342406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_20
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 84
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4725cc9795fc62f4e85c981a802efce5
+      internalID: -1587360221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c3035873cc4ca4982db7d1691304d5
+      internalID: -2103027785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_22
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac94d4743eafa14289b6d33b9c2edb0
+      internalID: 356389368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_23
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7ba6595a08726479ff7724aa966005
+      internalID: 1286850885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_24
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c1c887dda103145a4844215fa6b753
+      internalID: -207384188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_25
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b16d44012ee0548418972eed47c3bb18
+      internalID: 456227660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_26
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f01bd38d7443d46b9d50ae63425545
+      internalID: -742678550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_27
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 56
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df64fb579cc40a2439bf824dee4239ab
+      internalID: 122098825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75313f871cebd0941855d56e194ba8e1
+      internalID: 785932630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_29
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026cfdd5a9128cf43903e141b8b984be
+      internalID: -2001886490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_30
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a1647dc2c7ae40459351fad1edd7e90
+      internalID: -1114751481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_31
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b44cc7bbbc78b1e4a9d227539e2b3bef
+      internalID: -140438593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_32
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1da4a9c2a246e4d4392b4960b82120c3
+      internalID: -1139821197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_33
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 226cc2099207f06458252991809cf0cc
+      internalID: -1193170238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_34
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 28
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf5e17e446c9f2408d97b08ac8a8df9
+      internalID: 1394910799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b62cffd9eacbb46b45a59b43711ba0
+      internalID: -266065467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_36
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a2e7a4b28512b4eab8d7748d933995
+      internalID: 1263396490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lantern 2 Small - Silver and Orange_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 0
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdb5fa9b180f84408f58b206888ab1a
+      internalID: -257292673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Lantern 2 Small - Silver and Orange_0: 316018577
+      Lantern 2 Small - Silver and Orange_1: 1100707322
+      Lantern 2 Small - Silver and Orange_10: -432701358
+      Lantern 2 Small - Silver and Orange_11: 739090819
+      Lantern 2 Small - Silver and Orange_12: 1302470649
+      Lantern 2 Small - Silver and Orange_13: 1164911795
+      Lantern 2 Small - Silver and Orange_14: -2116714670
+      Lantern 2 Small - Silver and Orange_15: 105720963
+      Lantern 2 Small - Silver and Orange_16: 1454988499
+      Lantern 2 Small - Silver and Orange_17: -1104049125
+      Lantern 2 Small - Silver and Orange_18: -1629300654
+      Lantern 2 Small - Silver and Orange_19: 317342406
+      Lantern 2 Small - Silver and Orange_2: -108149576
+      Lantern 2 Small - Silver and Orange_20: -1587360221
+      Lantern 2 Small - Silver and Orange_21: -2103027785
+      Lantern 2 Small - Silver and Orange_22: 356389368
+      Lantern 2 Small - Silver and Orange_23: 1286850885
+      Lantern 2 Small - Silver and Orange_24: -207384188
+      Lantern 2 Small - Silver and Orange_25: 456227660
+      Lantern 2 Small - Silver and Orange_26: -742678550
+      Lantern 2 Small - Silver and Orange_27: 122098825
+      Lantern 2 Small - Silver and Orange_28: 785932630
+      Lantern 2 Small - Silver and Orange_29: -2001886490
+      Lantern 2 Small - Silver and Orange_3: 405594974
+      Lantern 2 Small - Silver and Orange_30: -1114751481
+      Lantern 2 Small - Silver and Orange_31: -140438593
+      Lantern 2 Small - Silver and Orange_32: -1139821197
+      Lantern 2 Small - Silver and Orange_33: -1193170238
+      Lantern 2 Small - Silver and Orange_34: 1394910799
+      Lantern 2 Small - Silver and Orange_35: -266065467
+      Lantern 2 Small - Silver and Orange_36: 1263396490
+      Lantern 2 Small - Silver and Orange_37: -257292673
+      Lantern 2 Small - Silver and Orange_4: 1929716709
+      Lantern 2 Small - Silver and Orange_5: 1293585462
+      Lantern 2 Small - Silver and Orange_6: -848012681
+      Lantern 2 Small - Silver and Orange_7: 1526722546
+      Lantern 2 Small - Silver and Orange_8: 1040445431
+      Lantern 2 Small - Silver and Orange_9: 1791598372
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
